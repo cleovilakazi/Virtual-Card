@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:ital,wght@0,100;0,300;1,100&family=Roboto:wght@100&display=swap');
+
+#prof{
+    
+    border-radius: 50% 0 50%  0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+  
+    
+
+}
+
+h2{
+    font-family: "Sedgwick Ave Display";
+    font-size: 2rem;
+    display: block;
+    text-align: center;
+
+}
+
+.skills-container{
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 22, 0.9);
+    transition: 0.2s;
+    width: 50%;
+    margin-left: 25%;
+}
+
+footer{
+    width: 100%;
+    min-height: 5px;
+    max-height: auto;
+    background-color: rgba(163, 28, 204, 0.438);
+    margin-top: 1rem;
+    clear: both;
+    
+    
+
+  }
+
+.skills-heading{
+    font-family: "Sedgwick Ave Display";
+    text-align: center;
+    font-size : 2rem;
+    
+    
+}
+
+.box-icons{
+    padding: 1rem;
+    transition: 0.2s;
+    width: 50%;
+    margin-left: 40%;
+
+    
+
+}
+
+#bio-title {
+    display: block;
+    text-align: center;
+    font-family: "Sedgwick Ave Display";
+
+
+
+}
+
+#description{
+    display: block;
+    text-align: center;
+    font-family: "Bebas Neue";
+
+
+}
+
+@media only screen and (max-width: 600px) {
+
+    .box-icons{
+        margin-left: 20%;
+
+    }
+    
+}
+
+
