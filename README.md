@@ -32,3 +32,6 @@ and styling preferences. Replace the placeholder content with your text, images,
 links. Customize the CSS files to change the layout, colors, fonts, or any other visual 
 aspects. You can also add additional sections or remove existing ones to tailor the template 
 to your needs.
+
+Visit Mine:
+https://cleom.netlify.app/
